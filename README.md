@@ -60,6 +60,3 @@ The project processes the speech audio files and extracts features for model tra
 7. **Evaluate the model:** Measure performance using accuracy and classification metrics.
 8. **Predict emotions:** Use the trained model to predict the emotion associated with speech audio.
 
-##  What Are MFCCs?
-
-**Mel-Frequency Cepstral Coefficients (MFCCs)** are audio features that represent important characteristics of speec
